@@ -1,0 +1,17 @@
+<html ng-app="admin">
+<head>
+    <title>Admin</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        var adminService = io.connect('/admin')
+        var userService = io.connect('/user');        
+        
+    </script>
+</head>
+<body>
+    <h3>There nothing to see here. Please go to <a href="http://localhost:5000">Frontend</a></h3>
+</body>
+
+</html>
