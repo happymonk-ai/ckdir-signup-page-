@@ -98,7 +98,7 @@
     "fastify-helmet": "^5.3.2",
     "fastify-jwt": "^3.0.0",
     "fastify-kubernetes": "^0.8.0",
-    "fastify-multipart": "^4.0.7",
+    "fastify-multipart": "^5.3.1",
     "fastify-plugin": "^3.0.0",
     "fastify-request-context": "^2.2.0",
     "fastify-socket.io": "^2.0.0",
