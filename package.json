@@ -143,7 +143,7 @@
     "libp2p-webrtc-star": "^0.22.3",
     "libp2p-websockets": "^0.15.7",
     "luxon": "^1.26.0",
-    "mercurius": "^8.4.2",
+    "mercurius": "^11.5.0",
     "mercurius-auth": "^1.2.0",
     "mercurius-upload": "^2.0.0",
     "mqtt": "^4.2.8",
